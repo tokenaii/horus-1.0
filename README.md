@@ -4,8 +4,7 @@
 
 Horus-1.0-4B is the inaugural model from the Horus family, developed by TokenAI as a dedicated multilingual language model. Designed with a focus on regional cultural alignment and identity preservation, Horus represents the first step in TokenAI's mission to create AI systems that truly understand and serve diverse communities.
 
-**Developer:** TokenAI (Founded by Assem Sabry)  
-**Country of Origin:** Egypt  
+**Organization:** TokenAI  
 **Release Date:** April 2026  
 **License:** MIT
 
