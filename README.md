@@ -2,7 +2,7 @@
 
 ![Horus Model](media/main.png)
 
-Horus-1.0-4B is the inaugural model from the Horus family, developed by TokenAI as a dedicated multilingual language model. Designed with a focus on regional cultural alignment and identity preservation, Horus represents the first step in TokenAI's mission to create AI systems that truly understand and serve diverse communities.
+Horus-1.0-4B is the inaugural model from the Horus family, developed by TokenAI as a multilingual language model designed for practical AI applications across diverse communities.
 
 **Organization:** TokenAI  
 **Release Date:** April 2026  
@@ -12,7 +12,7 @@ Horus-1.0-4B is the inaugural model from the Horus family, developed by TokenAI 
 
 ## Overview
 
-The model has been specifically trained to maintain a strong sense of identity, recognizing its Egyptian origins and the team behind its creation. Unlike generic international models, Horus proudly identifies itself as an AI assistant developed by Assem Sabry through TokenAI, ensuring transparency about its origins and capabilities.
+Horus-1.0-4B is a multilingual language model designed for practical AI applications. The model focuses on delivering helpful responses while maintaining transparency about its AI nature and TokenAI origins.
 
 ---
 
@@ -24,7 +24,7 @@ The model has been specifically trained to maintain a strong sense of identity, 
 - **Regional Focus:** Optimized for diverse cultural contexts
 
 ### Core Competencies
-- **Identity Recognition:** Strong self-identification as "Horus" developed by "Assem Sabry" from "TokenAI"
+- **Identity Recognition:** Strong self-identification as "Horus" from "TokenAI"
 - **Cultural Alignment:** Responses aligned with Arab cultural values and contexts
 - **Reasoning:** Chain-of-thought reasoning capabilities with step-by-step problem solving
 - **General Knowledge:** Broad knowledge across history, science, geography, and literature
