@@ -110,6 +110,55 @@ horus-1.0/
 
 ## Benchmark Results
 
+### Performance Comparison Charts
+
+Below are visual comparisons of Horus-1.0-4B against leading models including Qwen 3.5-4B, Llama 3.1-8B, Phi-4-14B, and Gemma-2-9B.
+
+#### General Knowledge & Reasoning Benchmarks
+![General Benchmarks](media/1.png)
+
+**What this chart shows:**
+- **MMLU** (Massive Multitask Language Understanding): Tests knowledge across 57 subjects. Horus achieves competitive performance despite its smaller size.
+- **MMLU Pro**: Advanced version with more challenging questions. Horus shows strong generalization.
+- **GPQA Diamond**: Graduate-Level Google-Proof Q&A - tests advanced reasoning. Horus demonstrates solid reasoning capabilities.
+- **ARC Challenge**: Science question answering. Horus performs well on scientific reasoning tasks.
+- **HellaSwag**: Commonsense inference. Horus shows good commonsense understanding.
+- **Winogrande**: Pronoun resolution and commonsense reasoning.
+
+**Key Insight:** Despite being only 4B parameters, Horus competes effectively with larger models like Phi-4-14B and Gemma-2-9B on reasoning tasks.
+
+---
+
+#### Arabic Language & Cultural Benchmarks
+![Arabic Benchmarks](media/2.png)
+
+**What this chart shows:**
+- **ArabicBench**: Tests Arabic language understanding and generation. Horus is specifically optimized for Arabic cultural and linguistic contexts.
+- **ExamsAR**: Arabic examination questions across various subjects. Strong performance on educational content.
+- **AraMath**: Mathematical reasoning in Arabic. Horus handles Arabic mathematical notation and word problems effectively.
+- **AGIEval**: General academic evaluation in Arabic contexts.
+- **GSM8K**: Grade school math (8K problems). Tests step-by-step mathematical reasoning.
+- **ERQA**: Entity-rich question answering in Arabic.
+
+**Key Insight:** Horus excels in Arabic-specific benchmarks, outperforming many larger models on culturally-relevant tasks, demonstrating its specialized training for Arabic language and contexts.
+
+---
+
+#### Coding, Instruction Following & Tool Use Benchmarks
+![Coding & Tool Benchmarks](media/3.png)
+
+**What this chart shows:**
+- **SWE-bench**: Software engineering tasks - tests real-world coding problem solving. Horus demonstrates practical programming capabilities.
+- **IFEval**: Instruction following evaluation - tests ability to follow complex, structured instructions accurately.
+- **BFCL v4**: Berkeley Function Calling Leaderboard - tests tool use and API interaction capabilities.
+- **Terminal**: Command-line and terminal task execution. Useful for automation and scripting workflows.
+- **OmniDoc**: Document understanding across formats. Tests information extraction from various document types.
+- **Browse**: Web browsing and information retrieval tasks.
+
+**Key Insight:** Horus shows particularly strong performance on Terminal (84%) and competitive results on coding benchmarks, making it suitable for developer workflows and automation tasks despite its compact 4B size.
+
+---
+
 ### Complete Performance Summary
 
 | Benchmark | Score |
