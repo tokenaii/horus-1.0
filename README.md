@@ -54,7 +54,7 @@ The following quantized versions are available for different deployment scenario
 | Q8_0 | GGUF | ~4.1 GB | Minimal quality loss |
 | F16 | GGUF | ~4.1 GB | Full precision, direct loading |
 
-GGUF versions available at: [tokenaii/Hours-1.0-4B-GGUF](https://huggingface.co/tokenaii/Hours-1.0-4B-GGUF)
+GGUF versions available at: [tokenaii/Hours-1.0-4B-GGUF](https://huggingface.co/tokenaii/Horus-1.0-4B-GGUF)
 
 ---
 
