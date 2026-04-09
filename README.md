@@ -227,7 +227,7 @@ If you use this model in your research or applications, please cite:
 
 - **HuggingFace Model:** https://huggingface.co/tokenaii/horus
 - **GGUF Versions:** https://huggingface.co/tokenaii/Hours-1.0-4B-GGUF
-- **TokenAI:** [Add your website here]
+- **TokenAI:** https://tokenai.cloud/horus
 
 ---
 
